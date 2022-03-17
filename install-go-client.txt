@@ -1,0 +1,2 @@
+sudo apt-get install build-essential pkg-config git
+go get gopkg.in/confluentinc/confluent-kafka-go.v1/kafka
